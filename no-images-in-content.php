@@ -3,6 +3,7 @@
  * Plugin URI: https://github.dev/lupetalo/no-images-in-content
  * GitHub Plugin URI: https://github.dev/lupetalo/no-images-in-content
  * Description: Removes all images in the content. Replaces the_content filter
+ * Version: 1.6
 */
 }
  function remove_images( $content ) {
